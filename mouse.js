@@ -4,7 +4,7 @@ var cuadrito = document.getElementById("area_de_dibujo");
 var papel = cuadrito.getContext("2d");
 
 var xi, yi, xf, yf;
-var color = "magenta";
+var color = "black";
 var control = false;
 
 function inicioDibujoMouse(evento) {

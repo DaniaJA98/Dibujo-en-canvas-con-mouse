@@ -14,7 +14,7 @@ var x=100;
 var y =100;
 
 
-dibujarLinea ("red",x-1,y-1,x+1,y+1,papel);
+dibujarLinea ("black",x-1,y-1,x+1,y+1,papel);
 
 function dibujarLinea (color,xinicial,yinicial,xfinal,yfinal,lienzo)
 {
